@@ -6,3 +6,7 @@ A simple calculator is a basic electronic device designed to perform fundamental
 2.Subtraction
 3.Mutliplication
 4.Division
+
+## OUTPUT
+![Screenshot 2024-06-29 223917](https://github.com/Soum54/simple-calculator/assets/147833824/a7ed2ad2-0613-4222-9bf2-acdffebad050)
+
